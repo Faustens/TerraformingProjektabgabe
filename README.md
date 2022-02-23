@@ -30,7 +30,7 @@ Man kann, wenn sich mehrere Nutzer auf dem Server aufhalten, ihre Position sehen
 - Perlin, K. (1985, jul). An image synthesizer.
 - Sim, D. (2015). Real-time 3d reconstruction and semantic segmentation using multi-layer heightmaps.
 
-XR Interaction Toolkit: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html
-XR Device Simulator: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.10/api/UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.html
-Compute Helper: https://github.com/SebLague/Reaction-Diffusion/tree/main/Assets/Scripts/Compute%20Helper
+XR Interaction Toolkit: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html \n
+XR Device Simulator: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.10/api/UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.html \n
+Compute Helper: https://github.com/SebLague/Reaction-Diffusion/tree/main/Assets/Scripts/Compute%20Helper \n
 PerlinNoise: https://github.com/keijiro/NoiseShader
