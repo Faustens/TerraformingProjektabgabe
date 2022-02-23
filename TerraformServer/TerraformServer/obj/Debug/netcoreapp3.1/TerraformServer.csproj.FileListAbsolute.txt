@@ -1,0 +1,14 @@
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\bin\Debug\netcoreapp3.1\TerraformServer.exe
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\bin\Debug\netcoreapp3.1\TerraformServer.deps.json
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\bin\Debug\netcoreapp3.1\TerraformServer.runtimeconfig.json
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\bin\Debug\netcoreapp3.1\TerraformServer.runtimeconfig.dev.json
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\bin\Debug\netcoreapp3.1\TerraformServer.dll
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\bin\Debug\netcoreapp3.1\TerraformServer.pdb
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\obj\Debug\netcoreapp3.1\TerraformServer.csproj.AssemblyReference.cache
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\obj\Debug\netcoreapp3.1\TerraformServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\obj\Debug\netcoreapp3.1\TerraformServer.AssemblyInfoInputs.cache
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\obj\Debug\netcoreapp3.1\TerraformServer.AssemblyInfo.cs
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\obj\Debug\netcoreapp3.1\TerraformServer.csproj.CoreCompileInputs.cache
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\obj\Debug\netcoreapp3.1\TerraformServer.dll
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\obj\Debug\netcoreapp3.1\TerraformServer.pdb
+C:\Users\edfly\Documents\Unity testen\TerraformServer\TerraformServer\obj\Debug\netcoreapp3.1\TerraformServer.genruntimeconfig.cache
