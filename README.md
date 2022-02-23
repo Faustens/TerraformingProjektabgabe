@@ -13,29 +13,24 @@ Rechte Hand drehen: Leer + Mittlere Maustaste + Maus bewegen
 Man kann, wenn sich mehrere Nutzer auf dem Server aufhalten, ihre Position sehen und alle ihre Terrainänderungen die sie durchführen. Zudem kann man auch nachträglich zum Server verbinden und bekommt alle Änderungen gesendet.
 
 3. externe Bibliotheken und Quellen
-"Scene Synchronization for Real-Time Interaction in Distributed Mixed Reality and Virtual Reality Environments"
-- Hamza-Lup, Felix G., Rolland, Jannick P.
-"Zero latency: Real-time synchronization of BIM data in virtual reality for collaborative decision-making"
-- Jing Du, Zhengbo Zou, Yangming Shi, Dong Zhao
-"Challenges in Networking to Support Augmented Reality and Virtual Reality"
-- Cedric Westphal Huawei
-"Algorithms and Approaches for Procedural Terrain Generation - A Brief Review of Current Techniques"
-- Rose, Thomas J., Bakaoukas, Anastasios G.
-"The Grounded Heightmap Tree - A New Data Structure for Terrain Representation"
-- J. Alonso, R. Joan-Arinyo
-Burdea, G. C. & Coiffet, P. (2003). Virtual reality technology 
-Elvezio, C., Ling, F., Liu, J.-S. & Feiner, S. (2018). Collaborative virtual reality for low-latency interaction.
-Gallup, D., Frahm, J.-M. & Pollefeys, M. (2011, 04). A heightmap model for efficient 3d reconstruction from street-level video.
-Gallup, D., Pollefeys, M. & Frahm, J.-M. (2010). 3d reconstruction using an n-layer heightmap.
-Helms, T. (2013). A voxel-based platform for game development
-Kundu, S. N., Muhammad, N. & Sattar, F. (2017). Using the augmented reality sandbox for advanced learning in geoscience education.
-Lorensen, W. & Cline, H. (1987, 08). Marching cubes: A high resolution 3d surface construction algorithm.
-Mulack, K. (2017). Parametrisierbare generierung einer dynamischen spielewelt
-Nguyen, H. (2014, 11). Proposition of new metaphors and techniques for 3d interaction and navigation preserving immersion and facilitating collaboration between distant users. Parger, M., Mueller, J. H., Schmalstieg, D. & Steinberger, M. (2018). Human upper-body inverse kinematics for increased embodiment in consumergrade virtual reality.
-Perlin, K. (1985, jul). An image synthesizer.
-Sim, D. (2015). Real-time 3d reconstruction and semantic segmentation using multi-layer heightmaps
-XR Interaction Toolkit -https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html
-XR Device Simulator –
-https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.10/api/UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.html
-Compute Helper - https://github.com/SebLague/Reaction-Diffusion/tree/main/Assets/Scripts/Compute%20Helper
-PerlinNoise - https://github.com/keijiro/NoiseShader
+-"Scene Synchronization for Real-Time Interaction in Distributed Mixed Reality and Virtual Reality Environments" von  Hamza-Lup, Felix G., Rolland und Jannick P. 
+- "Zero latency: Real-time synchronization of BIM data in virtual reality for collaborative decision-making" von Jing Du, Zhengbo Zou, Yangming Shi und Dong Zhao
+- "Challenges in Networking to Support Augmented Reality and Virtual Reality" von Cedric Westphal Huawei
+- Rose, Thomas J., Bakaoukas und Anastasios G. "Algorithms and Approaches for Procedural Terrain Generation - A Brief Review of Current Techniques"
+- J. Alonso und R. Joan-Arinyo. "The Grounded Heightmap Tree - A New Data Structure for Terrain Representation"
+- Burdea, G. C. & Coiffet, P. (2003). "Virtual reality technology"
+- Elvezio, C., Ling, F., Liu, J.-S. & Feiner, S. (2018). Collaborative virtual reality for low-latency interaction.
+- Gallup, D., Frahm, J.-M. & Pollefeys, M. (2011, 04). A heightmap model for efficient 3d reconstruction from street-level video.
+- Gallup, D., Pollefeys, M. & Frahm, J.-M. (2010). 3d reconstruction using an n-layer heightmap.
+- Helms, T. (2013). A voxel-based platform for game development
+- Kundu, S. N., Muhammad, N. & Sattar, F. (2017). Using the augmented reality sandbox for advanced learning in geoscience education.
+- Lorensen, W. & Cline, H. (1987, 08). Marching cubes: A high resolution 3d surface construction algorithm.
+- Mulack, K. (2017). Parametrisierbare generierung einer dynamischen spielewelt
+- Nguyen, H. (2014, 11). Proposition of new metaphors and techniques for 3d interaction and navigation preserving immersion and facilitating collaboration between distant users. - Parger, M., Mueller, J. H., Schmalstieg, D. & Steinberger, M. (2018). Human upper-body inverse kinematics for increased embodiment in consumergrade virtual reality.
+- Perlin, K. (1985, jul). An image synthesizer.
+- Sim, D. (2015). Real-time 3d reconstruction and semantic segmentation using multi-layer heightmaps.
+
+XR Interaction Toolkit: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html
+XR Device Simulator: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.10/api/UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.html
+Compute Helper: https://github.com/SebLague/Reaction-Diffusion/tree/main/Assets/Scripts/Compute%20Helper
+PerlinNoise: https://github.com/keijiro/NoiseShader
